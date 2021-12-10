@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://codewithasm.net/</loc>
+    <loc>https://alvif.github.io/</loc>
     <lastmod>2021-10-29T21:51:28+07:00</lastmod>
   </url><url>
-    <loc>https://codewithasm.net/tags/mysql/</loc>
+    <loc>https://alvif.github.io/tags/mysql/</loc>
     <lastmod>2021-10-29T21:51:28+07:00</lastmod>
   </url><url>
-    <loc>https://codewithasm.net/posts/first/</loc>
+    <loc>https://alvif.github.io/posts/first/</loc>
     <lastmod>2021-10-29T21:51:28+07:00</lastmod>
   </url><url>
-    <loc>https://codewithasm.net/posts/</loc>
+    <loc>https://alvif.github.io/posts/</loc>
     <lastmod>2021-10-29T21:51:28+07:00</lastmod>
   </url><url>
-    <loc>https://codewithasm.net/tags/</loc>
+    <loc>https://alvif.github.io/tags/</loc>
     <lastmod>2021-10-29T21:51:28+07:00</lastmod>
   </url><url>
-    <loc>https://codewithasm.net/categories/</loc>
+    <loc>https://alvif.github.io/categories/</loc>
   </url>
 </urlset>
