@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Code with ASM</title>
-    <link>https://alvif.github.io/</link>
+    <link>https://blog.alvifsandana.me/</link>
     <description>Recent content on Code with ASM</description>
     <image>
-      <url>https://alvif.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://alvif.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.alvifsandana.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.alvifsandana.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 29 Oct 2021 21:51:28 +0700</lastBuildDate><atom:link href="https://alvif.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Oct 2021 21:51:28 +0700</lastBuildDate><atom:link href="https://blog.alvifsandana.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MySQL utility commands</title>
-      <link>https://alvif.github.io/posts/first/</link>
+      <link>https://blog.alvifsandana.me/posts/first/</link>
       <pubDate>Fri, 29 Oct 2021 21:51:28 +0700</pubDate>
       
-      <guid>https://alvif.github.io/posts/first/</guid>
+      <guid>https://blog.alvifsandana.me/posts/first/</guid>
       <description>Desc Text.</description>
     </item>
     

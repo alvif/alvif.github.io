@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://alvif.github.io/sitemap.xml
+Sitemap: https://blog.alvifsandana.me/sitemap.xml
