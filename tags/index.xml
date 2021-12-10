@@ -9,7 +9,34 @@
       <link>https://blog.alvifsandana.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 29 Oct 2021 21:51:28 +0700</lastBuildDate><atom:link href="https://blog.alvifsandana.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Dec 2021 21:26:29 +0700</lastBuildDate><atom:link href="https://blog.alvifsandana.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>javascript</title>
+      <link>https://blog.alvifsandana.me/tags/javascript/</link>
+      <pubDate>Fri, 10 Dec 2021 21:26:29 +0700</pubDate>
+      
+      <guid>https://blog.alvifsandana.me/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nextjs</title>
+      <link>https://blog.alvifsandana.me/tags/nextjs/</link>
+      <pubDate>Fri, 10 Dec 2021 21:26:29 +0700</pubDate>
+      
+      <guid>https://blog.alvifsandana.me/tags/nextjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>typescript</title>
+      <link>https://blog.alvifsandana.me/tags/typescript/</link>
+      <pubDate>Fri, 10 Dec 2021 21:26:29 +0700</pubDate>
+      
+      <guid>https://blog.alvifsandana.me/tags/typescript/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>mysql</title>
       <link>https://blog.alvifsandana.me/tags/mysql/</link>
