@@ -9,13 +9,22 @@
       <link>https://blog.alvifsandana.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 Dec 2021 00:42:43 +0700</lastBuildDate><atom:link href="https://blog.alvifsandana.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Dec 2021 01:08:03 +0700</lastBuildDate><atom:link href="https://blog.alvifsandana.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>notes</title>
       <link>https://blog.alvifsandana.me/tags/notes/</link>
-      <pubDate>Sun, 12 Dec 2021 00:42:43 +0700</pubDate>
+      <pubDate>Sun, 12 Dec 2021 01:08:03 +0700</pubDate>
       
       <guid>https://blog.alvifsandana.me/tags/notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>php</title>
+      <link>https://blog.alvifsandana.me/tags/php/</link>
+      <pubDate>Sun, 12 Dec 2021 01:08:03 +0700</pubDate>
+      
+      <guid>https://blog.alvifsandana.me/tags/php/</guid>
       <description></description>
     </item>
     
@@ -52,15 +61,6 @@
       <pubDate>Sat, 11 Dec 2021 21:06:29 +0700</pubDate>
       
       <guid>https://blog.alvifsandana.me/tags/codeigniter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>php</title>
-      <link>https://blog.alvifsandana.me/tags/php/</link>
-      <pubDate>Sat, 11 Dec 2021 21:06:29 +0700</pubDate>
-      
-      <guid>https://blog.alvifsandana.me/tags/php/</guid>
       <description></description>
     </item>
     
