@@ -76,7 +76,7 @@
 /** * Backup database to .sql file * * @return file */ public function backup() { try { // load helper helper('filesystem'); // db connection config $config = [ 'DSN' => '', 'hostname' => env('database.default.hostname', 'localhost'), 'username' => env('database.default.username', 'root'), 'password' => env('database.default.password', ''), 'database' => env('database.default.database', 'db_keuangan_test'), 'DBDriver' => 'MySQLi', 'DBPrefix' => '', 'pConnect' => false, 'DBDebug' => (ENVIRONMENT !== 'production'), 'charset' => 'utf8', 'DBCollat' => 'utf8_general_ci', 'swapPre' => '', 'encrypt' => false, 'compress' => false, 'strictOn' => false, 'failover' => [], 'port' => 3306, ]; // connect to db with each config $db = db_connect($config); $builder = $db->query('SHOW TABLES'); $return = ''; // get table listing $tables = $builder->getResultArray(); // dd($tables, $config); // iterate tables foreach ($tables as $table) { // get field count from current table $result = $db->query('SELECT * FROM ' ....</p>
 </section>
 <footer class=entry-footer>December 11, 2021&nbsp;·&nbsp;2 min&nbsp;·&nbsp;Me</footer>
-<a class=entry-link aria-label="post link to Backup Database MySQL Codeigniter 4" href=https://blog.alvifsandana.me/notes/backup_database_mysql_codeigniter_4/></a>
+<a class=entry-link aria-label="post link to Backup Database MySQL Codeigniter 4" href=https://blog.alvifsandana.me/posts/backup_database_mysql_codeigniter_4/></a>
 </article>
 </main>
 <footer class=footer>
