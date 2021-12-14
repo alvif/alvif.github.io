@@ -9,7 +9,16 @@
       <link>https://blog.alvifsandana.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 Dec 2021 01:18:17 +0700</lastBuildDate><atom:link href="https://blog.alvifsandana.me/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Dec 2021 06:13:49 +0700</lastBuildDate><atom:link href="https://blog.alvifsandana.me/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flask - Installation</title>
+      <link>https://blog.alvifsandana.me/notes/flask_installation/</link>
+      <pubDate>Tue, 14 Dec 2021 06:13:49 +0700</pubDate>
+      
+      <guid>https://blog.alvifsandana.me/notes/flask_installation/</guid>
+      <description>How to install Flask</description>
+    </item>
+    
     <item>
       <title>mysqldump with PHP</title>
       <link>https://blog.alvifsandana.me/posts/mysqldump_with_php/</link>

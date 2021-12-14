@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Notes on Code with ASM</title>
-    <link>https://blog.alvifsandana.me/notes/</link>
-    <description>Recent content in Notes on Code with ASM</description>
+    <title>flask on Code with ASM</title>
+    <link>https://blog.alvifsandana.me/tags/flask/</link>
+    <description>Recent content in flask on Code with ASM</description>
     <image>
       <url>https://blog.alvifsandana.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.alvifsandana.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 14 Dec 2021 06:13:49 +0700</lastBuildDate><atom:link href="https://blog.alvifsandana.me/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Dec 2021 06:13:49 +0700</lastBuildDate><atom:link href="https://blog.alvifsandana.me/tags/flask/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flask - Installation</title>
       <link>https://blog.alvifsandana.me/notes/flask_installation/</link>
@@ -17,15 +17,6 @@
       
       <guid>https://blog.alvifsandana.me/notes/flask_installation/</guid>
       <description>How to install Flask</description>
-    </item>
-    
-    <item>
-      <title>NextJS - Installation</title>
-      <link>https://blog.alvifsandana.me/notes/nextjs_installation/</link>
-      <pubDate>Fri, 10 Dec 2021 21:26:29 +0700</pubDate>
-      
-      <guid>https://blog.alvifsandana.me/notes/nextjs_installation/</guid>
-      <description>Some installation methods for NextJS</description>
     </item>
     
   </channel>
