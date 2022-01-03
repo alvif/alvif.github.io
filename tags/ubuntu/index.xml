@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>server on Code with ASM</title>
-    <link>https://blog.alvifsandana.me/tags/server/</link>
-    <description>Recent content in server on Code with ASM</description>
+    <title>ubuntu on Code with ASM</title>
+    <link>https://blog.alvifsandana.me/tags/ubuntu/</link>
+    <description>Recent content in ubuntu on Code with ASM</description>
     <image>
       <url>https://blog.alvifsandana.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.alvifsandana.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 03 Jan 2022 11:27:35 +0700</lastBuildDate><atom:link href="https://blog.alvifsandana.me/tags/server/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jan 2022 11:27:35 +0700</lastBuildDate><atom:link href="https://blog.alvifsandana.me/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Install Docker Ubuntu 20.04 Server</title>
       <link>https://blog.alvifsandana.me/posts/install_docker_ubuntu_20.04_server/</link>
@@ -17,15 +17,6 @@
       
       <guid>https://blog.alvifsandana.me/posts/install_docker_ubuntu_20.04_server/</guid>
       <description>Docker installation step for Ubuntu 20.04 server.</description>
-    </item>
-    
-    <item>
-      <title>File Sharing with SimpleHTTPServer Python</title>
-      <link>https://blog.alvifsandana.me/posts/file_sharing_with_simplehttpserver_python/</link>
-      <pubDate>Sun, 12 Dec 2021 00:42:43 +0700</pubDate>
-      
-      <guid>https://blog.alvifsandana.me/posts/file_sharing_with_simplehttpserver_python/</guid>
-      <description>How to share file with http.server Python.</description>
     </item>
     
   </channel>

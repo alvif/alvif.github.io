@@ -74,6 +74,29 @@
 </header>
 <article class=post-entry>
 <header class=entry-header>
+<h2>Install docker-composer Linux
+</h2>
+</header>
+<section class=entry-content>
+<p>Install Compose on Linux systems Notes: For alpine, the following dependency packages are needed: py-pip, python3-dev, libffi-dev, openssl-dev, gcc, libc-dev, rust, cargo and make.
+Run this command to download the current stable release of Docker Compose: sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose Apply executable permissions to the binary: sudo chmod +x /usr/local/bin/docker-compose Test the installation. docker-compose --version official source here.</p>
+</section>
+<footer class=entry-footer>January 3, 2022&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer>
+<a class=entry-link aria-label="post link to Install docker-composer Linux" href=https://blog.alvifsandana.me/posts/install_docker-composer/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Install Docker Ubuntu 20.04 Server
+</h2>
+</header>
+<section class=entry-content>
+<p>Uninstall old versions sudo apt-get remove docker docker-engine docker.io containerd runc Install using the repository Update apt and install the following packets (ca-certificates, curl, gnupg, lsb-release): sudo apt-get update sudo apt-get install \ ca-certificates \ curl \ gnupg \ lsb-release Add Docker’s official GPG key: curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg Use the following command to set up the stable repository....</p>
+</section>
+<footer class=entry-footer>January 3, 2022&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer>
+<a class=entry-link aria-label="post link to Install Docker Ubuntu 20.04 Server" href=https://blog.alvifsandana.me/posts/install_docker_ubuntu_20.04_server/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
 <h2>Create VirtualHost Linux XAMPP
 </h2>
 </header>
@@ -114,33 +137,6 @@ sudo nano /opt/lampp/etc/httpd.conf Find the following line and remove # sign:..
 <footer class=entry-footer>December 12, 2021&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer>
 <a class=entry-link aria-label="post link to PHP Detect OS Name" href=https://blog.alvifsandana.me/posts/php_detect_os_name/></a>
 </article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>File Sharing with SimpleHTTPServer Python
-</h2>
-</header>
-<section class=entry-content>
-<p>File Sharing with http.server Python Open your terminal, change to the directory that will be shared. For example, we want to share our Music folder:
-cd $HOME/Music Write this command to run the server:
-python3 -m http.server If we want the server run on specific port, run the following command instead (custom port, for example 2408):
-python3 -m http.server 2408 We will see following output when server successfully launched:
-Serving HTTP on 0....</p>
-</section>
-<footer class=entry-footer>December 12, 2021&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer>
-<a class=entry-link aria-label="post link to File Sharing with SimpleHTTPServer Python" href=https://blog.alvifsandana.me/posts/file_sharing_with_simplehttpserver_python/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Backup Database MySQL Codeigniter 4
-</h2>
-</header>
-<section class=entry-content>
-<p>Write this code into controller:
-/** * Backup database to .sql file * * @return file */ public function backup() { try { // load helper helper('filesystem'); // db connection config $config = [ 'DSN' => '', 'hostname' => env('database.default.hostname', 'localhost'), 'username' => env('database.default.username', 'root'), 'password' => env('database.default.password', ''), 'database' => env('database.default.database', 'db_keuangan_test'), 'DBDriver' => 'MySQLi', 'DBPrefix' => '', 'pConnect' => false, 'DBDebug' => (ENVIRONMENT !== 'production'), 'charset' => 'utf8', 'DBCollat' => 'utf8_general_ci', 'swapPre' => '', 'encrypt' => false, 'compress' => false, 'strictOn' => false, 'failover' => [], 'port' => 3306, ]; // connect to db with each config $db = db_connect($config); $builder = $db->query('SHOW TABLES'); $return = ''; // get table listing $tables = $builder->getResultArray(); // dd($tables, $config); // iterate tables foreach ($tables as $table) { // get field count from current table $result = $db->query('SELECT * FROM ' ....</p>
-</section>
-<footer class=entry-footer>December 11, 2021&nbsp;·&nbsp;2 min&nbsp;·&nbsp;Me</footer>
-<a class=entry-link aria-label="post link to Backup Database MySQL Codeigniter 4" href=https://blog.alvifsandana.me/posts/backup_database_mysql_codeigniter_4/></a>
-</article>
 <footer class=page-footer>
 <nav class=pagination>
 <a class=next href=https://blog.alvifsandana.me/posts/page/2/>Next Page »</a>
@@ -148,7 +144,7 @@ Serving HTTP on 0....</p>
 </footer>
 </main>
 <footer class=footer>
-<span>&copy; 2021 <a href=https://blog.alvifsandana.me/>Code with ASM</a></span>
+<span>&copy; 2022 <a href=https://blog.alvifsandana.me/>Code with ASM</a></span>
 <span>
 Powered by
 <a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
