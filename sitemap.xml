@@ -3,7 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.alvifsandana.me/</loc>
-    <lastmod>2022-01-03T11:58:43+07:00</lastmod>
+    <lastmod>2022-02-20T12:19:45+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.alvifsandana.me/tags/group/</loc>
+    <lastmod>2022-02-20T12:19:45+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.alvifsandana.me/tags/linux/</loc>
+    <lastmod>2022-02-20T12:19:45+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.alvifsandana.me/posts/</loc>
+    <lastmod>2022-02-20T12:19:45+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.alvifsandana.me/posts/remove_a_user_from_a_group/</loc>
+    <lastmod>2022-02-20T12:19:45+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.alvifsandana.me/tags/system/</loc>
+    <lastmod>2022-02-20T12:19:45+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.alvifsandana.me/tags/</loc>
+    <lastmod>2022-02-20T12:19:45+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.alvifsandana.me/tags/automation/</loc>
+    <lastmod>2022-02-20T11:32:20+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.alvifsandana.me/tags/bash/</loc>
+    <lastmod>2022-02-20T11:32:20+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.alvifsandana.me/tags/email/</loc>
+    <lastmod>2022-02-20T11:32:20+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.alvifsandana.me/posts/email_notify_when_ssh_login/</loc>
+    <lastmod>2022-02-20T11:32:20+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.alvifsandana.me/tags/script/</loc>
+    <lastmod>2022-02-20T11:32:20+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.alvifsandana.me/tags/shell/</loc>
+    <lastmod>2022-02-20T11:32:20+07:00</lastmod>
   </url><url>
     <loc>https://blog.alvifsandana.me/tags/docker/</loc>
     <lastmod>2022-01-03T11:58:43+07:00</lastmod>
@@ -11,13 +47,7 @@
     <loc>https://blog.alvifsandana.me/posts/install_docker-composer/</loc>
     <lastmod>2022-01-03T11:58:43+07:00</lastmod>
   </url><url>
-    <loc>https://blog.alvifsandana.me/posts/</loc>
-    <lastmod>2022-01-03T11:58:43+07:00</lastmod>
-  </url><url>
     <loc>https://blog.alvifsandana.me/tags/posts/</loc>
-    <lastmod>2022-01-03T11:58:43+07:00</lastmod>
-  </url><url>
-    <loc>https://blog.alvifsandana.me/tags/</loc>
     <lastmod>2022-01-03T11:58:43+07:00</lastmod>
   </url><url>
     <loc>https://blog.alvifsandana.me/posts/install_docker_ubuntu_20.04_server/</loc>
