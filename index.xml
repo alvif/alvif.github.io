@@ -9,7 +9,25 @@
       <link>https://blog.alvifsandana.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 20 Feb 2022 12:19:45 +0700</lastBuildDate><atom:link href="https://blog.alvifsandana.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Apr 2022 08:45:46 +0700</lastBuildDate><atom:link href="https://blog.alvifsandana.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python Command Line Arguments</title>
+      <link>https://blog.alvifsandana.me/posts/python_command_line_arguments/</link>
+      <pubDate>Sun, 03 Apr 2022 08:45:46 +0700</pubDate>
+      
+      <guid>https://blog.alvifsandana.me/posts/python_command_line_arguments/</guid>
+      <description>How to read command line arguments with Python.</description>
+    </item>
+    
+    <item>
+      <title>Run Linux Command in Background</title>
+      <link>https://blog.alvifsandana.me/posts/run_linux_command_in_background/</link>
+      <pubDate>Sun, 03 Apr 2022 08:28:58 +0700</pubDate>
+      
+      <guid>https://blog.alvifsandana.me/posts/run_linux_command_in_background/</guid>
+      <description>How to run Linux command / script in background.</description>
+    </item>
+    
     <item>
       <title>Remove a User from a Group</title>
       <link>https://blog.alvifsandana.me/posts/remove_a_user_from_a_group/</link>
