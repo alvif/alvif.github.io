@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>cli on Code with ASM</title>
-    <link>https://blog.alvifsandana.me/tags/cli/</link>
+    <link>https://alvifsandana.live/tags/cli/</link>
     <description>Recent content in cli on Code with ASM</description>
     <image>
-      <url>https://blog.alvifsandana.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.alvifsandana.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://alvifsandana.live/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://alvifsandana.live/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 03 Apr 2022 08:45:46 +0700</lastBuildDate><atom:link href="https://blog.alvifsandana.me/tags/cli/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Apr 2022 08:45:46 +0700</lastBuildDate><atom:link href="https://alvifsandana.live/tags/cli/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python Command Line Arguments</title>
-      <link>https://blog.alvifsandana.me/posts/python_command_line_arguments/</link>
+      <link>https://alvifsandana.live/posts/python_command_line_arguments/</link>
       <pubDate>Sun, 03 Apr 2022 08:45:46 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/posts/python_command_line_arguments/</guid>
+      <guid>https://alvifsandana.live/posts/python_command_line_arguments/</guid>
       <description>How to read command line arguments with Python.</description>
     </item>
     

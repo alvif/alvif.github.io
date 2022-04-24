@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>virtualhost on Code with ASM</title>
-    <link>https://blog.alvifsandana.me/tags/virtualhost/</link>
+    <link>https://alvifsandana.live/tags/virtualhost/</link>
     <description>Recent content in virtualhost on Code with ASM</description>
     <image>
-      <url>https://blog.alvifsandana.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.alvifsandana.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://alvifsandana.live/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://alvifsandana.live/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 Dec 2021 19:33:43 +0700</lastBuildDate><atom:link href="https://blog.alvifsandana.me/tags/virtualhost/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Dec 2021 19:33:43 +0700</lastBuildDate><atom:link href="https://alvifsandana.live/tags/virtualhost/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Create VirtualHost Linux XAMPP</title>
-      <link>https://blog.alvifsandana.me/posts/create_virtualhost_xampp_linux/</link>
+      <link>https://alvifsandana.live/posts/create_virtualhost_xampp_linux/</link>
       <pubDate>Sun, 12 Dec 2021 19:33:43 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/posts/create_virtualhost_xampp_linux/</guid>
+      <guid>https://alvifsandana.live/posts/create_virtualhost_xampp_linux/</guid>
       <description>How to create VirtualHost in Linux XAMPP</description>
     </item>
     

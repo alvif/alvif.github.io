@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>php on Code with ASM</title>
-    <link>https://blog.alvifsandana.me/tags/php/</link>
+    <link>https://alvifsandana.live/tags/php/</link>
     <description>Recent content in php on Code with ASM</description>
     <image>
-      <url>https://blog.alvifsandana.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.alvifsandana.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://alvifsandana.live/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://alvifsandana.live/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 Dec 2021 01:18:17 +0700</lastBuildDate><atom:link href="https://blog.alvifsandana.me/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Dec 2021 01:18:17 +0700</lastBuildDate><atom:link href="https://alvifsandana.live/tags/php/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>mysqldump with PHP</title>
-      <link>https://blog.alvifsandana.me/posts/mysqldump_with_php/</link>
+      <link>https://alvifsandana.live/posts/mysqldump_with_php/</link>
       <pubDate>Sun, 12 Dec 2021 01:18:17 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/posts/mysqldump_with_php/</guid>
+      <guid>https://alvifsandana.live/posts/mysqldump_with_php/</guid>
       <description>How to run mysqldump with PHP</description>
     </item>
     
     <item>
       <title>PHP Detect OS Name</title>
-      <link>https://blog.alvifsandana.me/posts/php_detect_os_name/</link>
+      <link>https://alvifsandana.live/posts/php_detect_os_name/</link>
       <pubDate>Sun, 12 Dec 2021 01:08:03 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/posts/php_detect_os_name/</guid>
+      <guid>https://alvifsandana.live/posts/php_detect_os_name/</guid>
       <description>How to detect current OS name.</description>
     </item>
     
     <item>
       <title>Backup Database MySQL Codeigniter 4</title>
-      <link>https://blog.alvifsandana.me/posts/backup_database_mysql_codeigniter_4/</link>
+      <link>https://alvifsandana.live/posts/backup_database_mysql_codeigniter_4/</link>
       <pubDate>Sat, 11 Dec 2021 21:06:29 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/posts/backup_database_mysql_codeigniter_4/</guid>
+      <guid>https://alvifsandana.live/posts/backup_database_mysql_codeigniter_4/</guid>
       <description>Script for backup database using Codeigniter 4</description>
     </item>
     

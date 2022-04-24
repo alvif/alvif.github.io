@@ -2,119 +2,119 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Code with ASM</title>
-    <link>https://blog.alvifsandana.me/posts/</link>
+    <link>https://alvifsandana.live/posts/</link>
     <description>Recent content in Posts on Code with ASM</description>
     <image>
-      <url>https://blog.alvifsandana.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.alvifsandana.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://alvifsandana.live/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://alvifsandana.live/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 03 Apr 2022 08:45:46 +0700</lastBuildDate><atom:link href="https://blog.alvifsandana.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Apr 2022 08:45:46 +0700</lastBuildDate><atom:link href="https://alvifsandana.live/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python Command Line Arguments</title>
-      <link>https://blog.alvifsandana.me/posts/python_command_line_arguments/</link>
+      <link>https://alvifsandana.live/posts/python_command_line_arguments/</link>
       <pubDate>Sun, 03 Apr 2022 08:45:46 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/posts/python_command_line_arguments/</guid>
+      <guid>https://alvifsandana.live/posts/python_command_line_arguments/</guid>
       <description>How to read command line arguments with Python.</description>
     </item>
     
     <item>
       <title>Run Linux Command in Background</title>
-      <link>https://blog.alvifsandana.me/posts/run_linux_command_in_background/</link>
+      <link>https://alvifsandana.live/posts/run_linux_command_in_background/</link>
       <pubDate>Sun, 03 Apr 2022 08:28:58 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/posts/run_linux_command_in_background/</guid>
+      <guid>https://alvifsandana.live/posts/run_linux_command_in_background/</guid>
       <description>How to run Linux command / script in background.</description>
     </item>
     
     <item>
       <title>Remove a User from a Group</title>
-      <link>https://blog.alvifsandana.me/posts/remove_a_user_from_a_group/</link>
+      <link>https://alvifsandana.live/posts/remove_a_user_from_a_group/</link>
       <pubDate>Sun, 20 Feb 2022 12:19:45 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/posts/remove_a_user_from_a_group/</guid>
+      <guid>https://alvifsandana.live/posts/remove_a_user_from_a_group/</guid>
       <description>How to remove a user from a group.</description>
     </item>
     
     <item>
       <title>Email Notify when SSH Login</title>
-      <link>https://blog.alvifsandana.me/posts/email_notify_when_ssh_login/</link>
+      <link>https://alvifsandana.live/posts/email_notify_when_ssh_login/</link>
       <pubDate>Sun, 20 Feb 2022 11:32:20 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/posts/email_notify_when_ssh_login/</guid>
+      <guid>https://alvifsandana.live/posts/email_notify_when_ssh_login/</guid>
       <description>Automaticaly send email when SSH login.</description>
     </item>
     
     <item>
       <title>Install docker-composer Linux</title>
-      <link>https://blog.alvifsandana.me/posts/install_docker-composer/</link>
+      <link>https://alvifsandana.live/posts/install_docker-composer/</link>
       <pubDate>Mon, 03 Jan 2022 11:58:43 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/posts/install_docker-composer/</guid>
+      <guid>https://alvifsandana.live/posts/install_docker-composer/</guid>
       <description>Steps to install docker-compose on Linux.</description>
     </item>
     
     <item>
       <title>Install Docker Ubuntu 20.04 Server</title>
-      <link>https://blog.alvifsandana.me/posts/install_docker_ubuntu_20.04_server/</link>
+      <link>https://alvifsandana.live/posts/install_docker_ubuntu_20.04_server/</link>
       <pubDate>Mon, 03 Jan 2022 11:27:35 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/posts/install_docker_ubuntu_20.04_server/</guid>
+      <guid>https://alvifsandana.live/posts/install_docker_ubuntu_20.04_server/</guid>
       <description>Docker installation step for Ubuntu 20.04 server.</description>
     </item>
     
     <item>
       <title>Create VirtualHost Linux XAMPP</title>
-      <link>https://blog.alvifsandana.me/posts/create_virtualhost_xampp_linux/</link>
+      <link>https://alvifsandana.live/posts/create_virtualhost_xampp_linux/</link>
       <pubDate>Sun, 12 Dec 2021 19:33:43 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/posts/create_virtualhost_xampp_linux/</guid>
+      <guid>https://alvifsandana.live/posts/create_virtualhost_xampp_linux/</guid>
       <description>How to create VirtualHost in Linux XAMPP</description>
     </item>
     
     <item>
       <title>mysqldump with PHP</title>
-      <link>https://blog.alvifsandana.me/posts/mysqldump_with_php/</link>
+      <link>https://alvifsandana.live/posts/mysqldump_with_php/</link>
       <pubDate>Sun, 12 Dec 2021 01:18:17 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/posts/mysqldump_with_php/</guid>
+      <guid>https://alvifsandana.live/posts/mysqldump_with_php/</guid>
       <description>How to run mysqldump with PHP</description>
     </item>
     
     <item>
       <title>PHP Detect OS Name</title>
-      <link>https://blog.alvifsandana.me/posts/php_detect_os_name/</link>
+      <link>https://alvifsandana.live/posts/php_detect_os_name/</link>
       <pubDate>Sun, 12 Dec 2021 01:08:03 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/posts/php_detect_os_name/</guid>
+      <guid>https://alvifsandana.live/posts/php_detect_os_name/</guid>
       <description>How to detect current OS name.</description>
     </item>
     
     <item>
       <title>File Sharing with SimpleHTTPServer Python</title>
-      <link>https://blog.alvifsandana.me/posts/file_sharing_with_simplehttpserver_python/</link>
+      <link>https://alvifsandana.live/posts/file_sharing_with_simplehttpserver_python/</link>
       <pubDate>Sun, 12 Dec 2021 00:42:43 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/posts/file_sharing_with_simplehttpserver_python/</guid>
+      <guid>https://alvifsandana.live/posts/file_sharing_with_simplehttpserver_python/</guid>
       <description>How to share file with http.server Python.</description>
     </item>
     
     <item>
       <title>Backup Database MySQL Codeigniter 4</title>
-      <link>https://blog.alvifsandana.me/posts/backup_database_mysql_codeigniter_4/</link>
+      <link>https://alvifsandana.live/posts/backup_database_mysql_codeigniter_4/</link>
       <pubDate>Sat, 11 Dec 2021 21:06:29 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/posts/backup_database_mysql_codeigniter_4/</guid>
+      <guid>https://alvifsandana.live/posts/backup_database_mysql_codeigniter_4/</guid>
       <description>Script for backup database using Codeigniter 4</description>
     </item>
     
     <item>
       <title>MySQL utility commands</title>
-      <link>https://blog.alvifsandana.me/posts/first/</link>
+      <link>https://alvifsandana.live/posts/first/</link>
       <pubDate>Fri, 29 Oct 2021 21:51:28 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/posts/first/</guid>
+      <guid>https://alvifsandana.live/posts/first/</guid>
       <description>Desc Text.</description>
     </item>
     

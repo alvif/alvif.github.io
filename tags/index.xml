@@ -2,245 +2,245 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Code with ASM</title>
-    <link>https://blog.alvifsandana.me/tags/</link>
+    <link>https://alvifsandana.live/tags/</link>
     <description>Recent content in Tags on Code with ASM</description>
     <image>
-      <url>https://blog.alvifsandana.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.alvifsandana.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://alvifsandana.live/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://alvifsandana.live/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 03 Apr 2022 08:45:46 +0700</lastBuildDate><atom:link href="https://blog.alvifsandana.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Apr 2022 08:45:46 +0700</lastBuildDate><atom:link href="https://alvifsandana.live/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cli</title>
-      <link>https://blog.alvifsandana.me/tags/cli/</link>
+      <link>https://alvifsandana.live/tags/cli/</link>
       <pubDate>Sun, 03 Apr 2022 08:45:46 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/cli/</guid>
+      <guid>https://alvifsandana.live/tags/cli/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>https://blog.alvifsandana.me/tags/python/</link>
+      <link>https://alvifsandana.live/tags/python/</link>
       <pubDate>Sun, 03 Apr 2022 08:45:46 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/python/</guid>
+      <guid>https://alvifsandana.live/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>system</title>
-      <link>https://blog.alvifsandana.me/tags/system/</link>
+      <link>https://alvifsandana.live/tags/system/</link>
       <pubDate>Sun, 03 Apr 2022 08:45:46 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/system/</guid>
+      <guid>https://alvifsandana.live/tags/system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>command</title>
-      <link>https://blog.alvifsandana.me/tags/command/</link>
+      <link>https://alvifsandana.live/tags/command/</link>
       <pubDate>Sun, 03 Apr 2022 08:28:58 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/command/</guid>
+      <guid>https://alvifsandana.live/tags/command/</guid>
       <description></description>
     </item>
     
     <item>
       <title>linux</title>
-      <link>https://blog.alvifsandana.me/tags/linux/</link>
+      <link>https://alvifsandana.live/tags/linux/</link>
       <pubDate>Sun, 03 Apr 2022 08:28:58 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/linux/</guid>
+      <guid>https://alvifsandana.live/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>group</title>
-      <link>https://blog.alvifsandana.me/tags/group/</link>
+      <link>https://alvifsandana.live/tags/group/</link>
       <pubDate>Sun, 20 Feb 2022 12:19:45 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/group/</guid>
+      <guid>https://alvifsandana.live/tags/group/</guid>
       <description></description>
     </item>
     
     <item>
       <title>automation</title>
-      <link>https://blog.alvifsandana.me/tags/automation/</link>
+      <link>https://alvifsandana.live/tags/automation/</link>
       <pubDate>Sun, 20 Feb 2022 11:32:20 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/automation/</guid>
+      <guid>https://alvifsandana.live/tags/automation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bash</title>
-      <link>https://blog.alvifsandana.me/tags/bash/</link>
+      <link>https://alvifsandana.live/tags/bash/</link>
       <pubDate>Sun, 20 Feb 2022 11:32:20 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/bash/</guid>
+      <guid>https://alvifsandana.live/tags/bash/</guid>
       <description></description>
     </item>
     
     <item>
       <title>email</title>
-      <link>https://blog.alvifsandana.me/tags/email/</link>
+      <link>https://alvifsandana.live/tags/email/</link>
       <pubDate>Sun, 20 Feb 2022 11:32:20 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/email/</guid>
+      <guid>https://alvifsandana.live/tags/email/</guid>
       <description></description>
     </item>
     
     <item>
       <title>script</title>
-      <link>https://blog.alvifsandana.me/tags/script/</link>
+      <link>https://alvifsandana.live/tags/script/</link>
       <pubDate>Sun, 20 Feb 2022 11:32:20 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/script/</guid>
+      <guid>https://alvifsandana.live/tags/script/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shell</title>
-      <link>https://blog.alvifsandana.me/tags/shell/</link>
+      <link>https://alvifsandana.live/tags/shell/</link>
       <pubDate>Sun, 20 Feb 2022 11:32:20 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/shell/</guid>
+      <guid>https://alvifsandana.live/tags/shell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docker</title>
-      <link>https://blog.alvifsandana.me/tags/docker/</link>
+      <link>https://alvifsandana.live/tags/docker/</link>
       <pubDate>Mon, 03 Jan 2022 11:58:43 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/docker/</guid>
+      <guid>https://alvifsandana.live/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>posts</title>
-      <link>https://blog.alvifsandana.me/tags/posts/</link>
+      <link>https://alvifsandana.live/tags/posts/</link>
       <pubDate>Mon, 03 Jan 2022 11:58:43 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/posts/</guid>
+      <guid>https://alvifsandana.live/tags/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>server</title>
-      <link>https://blog.alvifsandana.me/tags/server/</link>
+      <link>https://alvifsandana.live/tags/server/</link>
       <pubDate>Mon, 03 Jan 2022 11:27:35 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/server/</guid>
+      <guid>https://alvifsandana.live/tags/server/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ubuntu</title>
-      <link>https://blog.alvifsandana.me/tags/ubuntu/</link>
+      <link>https://alvifsandana.live/tags/ubuntu/</link>
       <pubDate>Mon, 03 Jan 2022 11:27:35 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/ubuntu/</guid>
+      <guid>https://alvifsandana.live/tags/ubuntu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>flask</title>
-      <link>https://blog.alvifsandana.me/tags/flask/</link>
+      <link>https://alvifsandana.live/tags/flask/</link>
       <pubDate>Tue, 14 Dec 2021 06:13:49 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/flask/</guid>
+      <guid>https://alvifsandana.live/tags/flask/</guid>
       <description></description>
     </item>
     
     <item>
       <title>notes</title>
-      <link>https://blog.alvifsandana.me/tags/notes/</link>
+      <link>https://alvifsandana.live/tags/notes/</link>
       <pubDate>Tue, 14 Dec 2021 06:13:49 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/notes/</guid>
+      <guid>https://alvifsandana.live/tags/notes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>virtualhost</title>
-      <link>https://blog.alvifsandana.me/tags/virtualhost/</link>
+      <link>https://alvifsandana.live/tags/virtualhost/</link>
       <pubDate>Sun, 12 Dec 2021 19:33:43 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/virtualhost/</guid>
+      <guid>https://alvifsandana.live/tags/virtualhost/</guid>
       <description></description>
     </item>
     
     <item>
       <title>xampp</title>
-      <link>https://blog.alvifsandana.me/tags/xampp/</link>
+      <link>https://alvifsandana.live/tags/xampp/</link>
       <pubDate>Sun, 12 Dec 2021 19:33:43 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/xampp/</guid>
+      <guid>https://alvifsandana.live/tags/xampp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mysql</title>
-      <link>https://blog.alvifsandana.me/tags/mysql/</link>
+      <link>https://alvifsandana.live/tags/mysql/</link>
       <pubDate>Sun, 12 Dec 2021 01:18:17 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/mysql/</guid>
+      <guid>https://alvifsandana.live/tags/mysql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>php</title>
-      <link>https://blog.alvifsandana.me/tags/php/</link>
+      <link>https://alvifsandana.live/tags/php/</link>
       <pubDate>Sun, 12 Dec 2021 01:18:17 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/php/</guid>
+      <guid>https://alvifsandana.live/tags/php/</guid>
       <description></description>
     </item>
     
     <item>
       <title>share</title>
-      <link>https://blog.alvifsandana.me/tags/share/</link>
+      <link>https://alvifsandana.live/tags/share/</link>
       <pubDate>Sun, 12 Dec 2021 00:42:43 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/share/</guid>
+      <guid>https://alvifsandana.live/tags/share/</guid>
       <description></description>
     </item>
     
     <item>
       <title>codeigniter</title>
-      <link>https://blog.alvifsandana.me/tags/codeigniter/</link>
+      <link>https://alvifsandana.live/tags/codeigniter/</link>
       <pubDate>Sat, 11 Dec 2021 21:06:29 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/codeigniter/</guid>
+      <guid>https://alvifsandana.live/tags/codeigniter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>javascript</title>
-      <link>https://blog.alvifsandana.me/tags/javascript/</link>
+      <link>https://alvifsandana.live/tags/javascript/</link>
       <pubDate>Fri, 10 Dec 2021 21:26:29 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/javascript/</guid>
+      <guid>https://alvifsandana.live/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nextjs</title>
-      <link>https://blog.alvifsandana.me/tags/nextjs/</link>
+      <link>https://alvifsandana.live/tags/nextjs/</link>
       <pubDate>Fri, 10 Dec 2021 21:26:29 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/nextjs/</guid>
+      <guid>https://alvifsandana.live/tags/nextjs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>typescript</title>
-      <link>https://blog.alvifsandana.me/tags/typescript/</link>
+      <link>https://alvifsandana.live/tags/typescript/</link>
       <pubDate>Fri, 10 Dec 2021 21:26:29 +0700</pubDate>
       
-      <guid>https://blog.alvifsandana.me/tags/typescript/</guid>
+      <guid>https://alvifsandana.live/tags/typescript/</guid>
       <description></description>
     </item>
     
