@@ -9,7 +9,16 @@
       <link>https://alvifsandana.live/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 03 Apr 2022 08:45:46 +0700</lastBuildDate><atom:link href="https://alvifsandana.live/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 May 2022 18:25:17 +0700</lastBuildDate><atom:link href="https://alvifsandana.live/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Command for Filtering Text</title>
+      <link>https://alvifsandana.live/posts/linux_command_for_filtering_text/</link>
+      <pubDate>Sun, 22 May 2022 18:25:17 +0700</pubDate>
+      
+      <guid>https://alvifsandana.live/posts/linux_command_for_filtering_text/</guid>
+      <description>List of Linux command for filtering text.</description>
+    </item>
+    
     <item>
       <title>Python Command Line Arguments</title>
       <link>https://alvifsandana.live/posts/python_command_line_arguments/</link>

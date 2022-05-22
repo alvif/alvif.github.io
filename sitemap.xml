@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alvifsandana.live/tags/cli/</loc>
-    <lastmod>2022-04-03T08:45:46+07:00</lastmod>
+    <loc>https://alvifsandana.live/tags/bash/</loc>
+    <lastmod>2022-05-22T18:25:17+07:00</lastmod>
   </url><url>
     <loc>https://alvifsandana.live/</loc>
-    <lastmod>2022-04-03T08:45:46+07:00</lastmod>
+    <lastmod>2022-05-22T18:25:17+07:00</lastmod>
+  </url><url>
+    <loc>https://alvifsandana.live/tags/interpreter/</loc>
+    <lastmod>2022-05-22T18:25:17+07:00</lastmod>
+  </url><url>
+    <loc>https://alvifsandana.live/tags/linux/</loc>
+    <lastmod>2022-05-22T18:25:17+07:00</lastmod>
+  </url><url>
+    <loc>https://alvifsandana.live/posts/linux_command_for_filtering_text/</loc>
+    <lastmod>2022-05-22T18:25:17+07:00</lastmod>
   </url><url>
     <loc>https://alvifsandana.live/posts/</loc>
+    <lastmod>2022-05-22T18:25:17+07:00</lastmod>
+  </url><url>
+    <loc>https://alvifsandana.live/tags/</loc>
+    <lastmod>2022-05-22T18:25:17+07:00</lastmod>
+  </url><url>
+    <loc>https://alvifsandana.live/tags/terminal/</loc>
+    <lastmod>2022-05-22T18:25:17+07:00</lastmod>
+  </url><url>
+    <loc>https://alvifsandana.live/tags/cli/</loc>
     <lastmod>2022-04-03T08:45:46+07:00</lastmod>
   </url><url>
     <loc>https://alvifsandana.live/tags/python/</loc>
@@ -20,13 +38,7 @@
     <loc>https://alvifsandana.live/tags/system/</loc>
     <lastmod>2022-04-03T08:45:46+07:00</lastmod>
   </url><url>
-    <loc>https://alvifsandana.live/tags/</loc>
-    <lastmod>2022-04-03T08:45:46+07:00</lastmod>
-  </url><url>
     <loc>https://alvifsandana.live/tags/command/</loc>
-    <lastmod>2022-04-03T08:28:58+07:00</lastmod>
-  </url><url>
-    <loc>https://alvifsandana.live/tags/linux/</loc>
     <lastmod>2022-04-03T08:28:58+07:00</lastmod>
   </url><url>
     <loc>https://alvifsandana.live/posts/run_linux_command_in_background/</loc>
@@ -39,9 +51,6 @@
     <lastmod>2022-02-20T12:19:45+07:00</lastmod>
   </url><url>
     <loc>https://alvifsandana.live/tags/automation/</loc>
-    <lastmod>2022-02-20T11:32:20+07:00</lastmod>
-  </url><url>
-    <loc>https://alvifsandana.live/tags/bash/</loc>
     <lastmod>2022-02-20T11:32:20+07:00</lastmod>
   </url><url>
     <loc>https://alvifsandana.live/tags/email/</loc>
