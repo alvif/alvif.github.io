@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>datetime on Code with ASM</title>
+    <link>https://alvifsandana.live/tags/datetime/</link>
+    <description>Recent content in datetime on Code with ASM</description>
+    <image>
+      <url>https://alvifsandana.live/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://alvifsandana.live/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 24 May 2022 11:49:47 +0700</lastBuildDate><atom:link href="https://alvifsandana.live/tags/datetime/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datetime Indonesian Format</title>
+      <link>https://alvifsandana.live/posts/datetime_indonesia_format/</link>
+      <pubDate>Tue, 24 May 2022 11:49:47 +0700</pubDate>
+      
+      <guid>https://alvifsandana.live/posts/datetime_indonesia_format/</guid>
+      <description>Indonesian datetime format in PHP.</description>
+    </item>
+    
+  </channel>
+</rss>

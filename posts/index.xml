@@ -9,7 +9,34 @@
       <link>https://alvifsandana.live/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 22 May 2022 18:25:17 +0700</lastBuildDate><atom:link href="https://alvifsandana.live/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 May 2022 10:19:10 +0700</lastBuildDate><atom:link href="https://alvifsandana.live/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PHP Nominal Terbilang</title>
+      <link>https://alvifsandana.live/posts/php_nominal_terbilang/</link>
+      <pubDate>Mon, 30 May 2022 10:19:10 +0700</pubDate>
+      
+      <guid>https://alvifsandana.live/posts/php_nominal_terbilang/</guid>
+      <description>Nominal terbilang dalam format Indonesia (PHP)</description>
+    </item>
+    
+    <item>
+      <title>Check PHP File Type</title>
+      <link>https://alvifsandana.live/posts/check_php_file_type/</link>
+      <pubDate>Mon, 30 May 2022 10:16:22 +0700</pubDate>
+      
+      <guid>https://alvifsandana.live/posts/check_php_file_type/</guid>
+      <description>Simple check filetype when doing upload file with PHP.</description>
+    </item>
+    
+    <item>
+      <title>Datetime Indonesian Format</title>
+      <link>https://alvifsandana.live/posts/datetime_indonesia_format/</link>
+      <pubDate>Tue, 24 May 2022 11:49:47 +0700</pubDate>
+      
+      <guid>https://alvifsandana.live/posts/datetime_indonesia_format/</guid>
+      <description>Indonesian datetime format in PHP.</description>
+    </item>
+    
     <item>
       <title>Linux Command for Filtering Text</title>
       <link>https://alvifsandana.live/posts/linux_command_for_filtering_text/</link>

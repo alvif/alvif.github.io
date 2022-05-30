@@ -73,67 +73,19 @@
 </header>
 <article class="post-entry tag-entry">
 <header class=entry-header>
-<h2>PHP Nominal Terbilang
+<h2>Backup Database MySQL Codeigniter 4
 </h2>
 </header>
 <section class=entry-content>
-<p>&lt;?php function penyebut($nilai) { $nilai = abs($nilai); $huruf = array("", "satu", "dua", "tiga", "empat", "lima", "enam", "tujuh", "delapan", "sembilan", "sepuluh", "sebelas"); $temp = ""; if ($nilai &lt; 12) { $temp = " ". $huruf[$nilai]; } else if ($nilai &lt;20) { $temp = penyebut($nilai - 10). " belas"; } else if ($nilai &lt; 100) { $temp = penyebut($nilai/10)." puluh". penyebut($nilai % 10); } else if ($nilai &lt; 200) { $temp = " seratus" ....</p>
+<p>Write this code into controller:
+/** * Backup database to .sql file * * @return file */ public function backup() { try { // load helper helper('filesystem'); // db connection config $config = [ 'DSN' => '', 'hostname' => env('database.default.hostname', 'localhost'), 'username' => env('database.default.username', 'root'), 'password' => env('database.default.password', ''), 'database' => env('database.default.database', 'db_keuangan_test'), 'DBDriver' => 'MySQLi', 'DBPrefix' => '', 'pConnect' => false, 'DBDebug' => (ENVIRONMENT !== 'production'), 'charset' => 'utf8', 'DBCollat' => 'utf8_general_ci', 'swapPre' => '', 'encrypt' => false, 'compress' => false, 'strictOn' => false, 'failover' => [], 'port' => 3306, ]; // connect to db with each config $db = db_connect($config); $builder = $db->query('SHOW TABLES'); $return = ''; // get table listing $tables = $builder->getResultArray(); // dd($tables, $config); // iterate tables foreach ($tables as $table) { // get field count from current table $result = $db->query('SELECT * FROM ' ....</p>
 </section>
-<footer class=entry-footer>May 30, 2022&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer>
-<a class=entry-link aria-label="post link to PHP Nominal Terbilang" href=https://alvifsandana.live/posts/php_nominal_terbilang/></a>
-</article>
-<article class="post-entry tag-entry">
-<header class=entry-header>
-<h2>Check PHP File Type
-</h2>
-</header>
-<section class=entry-content>
-<p>/** * Return true if $mimeType is php. * */ function check_file_type(String $mimeType = '') { $status = false; switch ($mimeType) { case '': $status = 'mimeType empty!'; return $status; case 'text/php': $status = true; return $status; break; case 'text/x-php': $status = true; return $status; break; case 'application/php': $status = true; return $status; break; case 'application/x-php': $status = true; return $status; break; case 'application/x-httpd-php': $status = true; return $status; break; case 'application/x-httpd-php-source': $status = true; return $status; break; default: return $status; break; } } </p>
-</section>
-<footer class=entry-footer>May 30, 2022&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer>
-<a class=entry-link aria-label="post link to Check PHP File Type" href=https://alvifsandana.live/posts/check_php_file_type/></a>
-</article>
-<article class="post-entry tag-entry">
-<header class=entry-header>
-<h2>Datetime Indonesian Format
-</h2>
-</header>
-<section class=entry-content>
-<p>&lt;?php function tgl_indo($tanggal){ $bulan = array ( 1 => 'Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember' ); $pecahkan = explode('-', $tanggal); // variabel pecahkan 0 = tanggal // variabel pecahkan 1 = bulan // variabel pecahkan 2 = tahun return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0]; } </p>
-</section>
-<footer class=entry-footer>May 24, 2022&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer>
-<a class=entry-link aria-label="post link to Datetime Indonesian Format" href=https://alvifsandana.live/posts/datetime_indonesia_format/></a>
-</article>
-<article class="post-entry tag-entry">
-<header class=entry-header>
-<h2>mysqldump with PHP
-</h2>
-</header>
-<section class=entry-content>
-<p>&lt;?php // Windows XAMPP exec("C:/xampp/mysql/bin/mysqldump -u root db_name> db_name.sql"); ?>or (MySQL with password protected, use -p flag):
-&lt;?php // Windows XAMPP exec("C:/xampp/mysql/bin/mysqldump -u root -pMyPassword db_name> db_name.sql"); ?>on Linux:
-&lt;?php exec("mysqldump -u root db_name> db_name.sql"); ?>or (MySQL with password protected, use -p flag):
-&lt;?php exec("mysqldump -u root -pMyPassword db_name> db_name.sql"); ?...</p>
-</section>
-<footer class=entry-footer>December 12, 2021&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer>
-<a class=entry-link aria-label="post link to mysqldump with PHP" href=https://alvifsandana.live/posts/mysqldump_with_php/></a>
-</article>
-<article class="post-entry tag-entry">
-<header class=entry-header>
-<h2>PHP Detect OS Name
-</h2>
-</header>
-<section class=entry-content>
-<p>The following script check the value of the PHP_OS constant:
-// check whether Windows OS or not if(strtoupper(substr(PHP_OS, 0, 3)) === 'WIN'){ // do something... } else { // do something... } or (available from PHP 7.2.0)
-// available from PHP 7.2.0 if (PHP_OS_FAMILY === "Windows") { echo "Running on Windows"; } elseif (PHP_OS_FAMILY === "Linux") { echo "Running on Linux"; } </p>
-</section>
-<footer class=entry-footer>December 12, 2021&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer>
-<a class=entry-link aria-label="post link to PHP Detect OS Name" href=https://alvifsandana.live/posts/php_detect_os_name/></a>
+<footer class=entry-footer>December 11, 2021&nbsp;·&nbsp;2 min&nbsp;·&nbsp;Me</footer>
+<a class=entry-link aria-label="post link to Backup Database MySQL Codeigniter 4" href=https://alvifsandana.live/posts/backup_database_mysql_codeigniter_4/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>
-<a class=next href=https://alvifsandana.live/tags/php/page/2/>Next Page »</a>
+<a class=prev href=https://alvifsandana.live/tags/php/>« Prev Page</a>
 </nav>
 </footer>
 </main>

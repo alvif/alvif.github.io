@@ -74,72 +74,24 @@
 </header>
 <article class=post-entry>
 <header class=entry-header>
-<h2>Run Linux Command in Background
+<h2>MySQL utility commands
 </h2>
 </header>
 <section class=entry-content>
-<p>Using &> /dev/null & Example: ping 8.8.8.8 &> /dev/null &
-To show the running process, we can use jobs command.
-Using nohup with &> /dev/null & Example: nohup ping 8.8.8.8 &> /dev/null &
-To show the running process, we can use jobs command.
-Terminate the process with kill -9 pid_num.</p>
+<p>Table Manipulation Beberapa command yang digunakan untuk memanipulasi tabel.
+SELECT – extract data from a database General form:
+SELECT column_name FROM table_name; Select all column:
+SELECT * FROM table_name; or
+SELECT table_name.* FROM table_name; With condition:
+SELECT column_name FROM table_name WHERE column_name = value AND ... OR ...; *nb: = can be changed with (operator: =, >, &lt;, !=)
+INSERT – create new data to a database (add new row to a table) General form:...</p>
 </section>
-<footer class=entry-footer>April 3, 2022&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer>
-<a class=entry-link aria-label="post link to Run Linux Command in Background" href=https://alvifsandana.live/posts/run_linux_command_in_background/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Remove a User from a Group
-</h2>
-</header>
-<section class=entry-content>
-<p>Command for remove a user from a group Open Terminal and write this command:
-gpasswd --delete user group Command for add a user to a group Open Terminal and write this command:
-usermod -aG group user </p>
-</section>
-<footer class=entry-footer>February 20, 2022&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer>
-<a class=entry-link aria-label="post link to Remove a User from a Group" href=https://alvifsandana.live/posts/remove_a_user_from_a_group/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Email Notify when SSH Login
-</h2>
-</header>
-<section class=entry-content>
-<p>Bash script to send email when SSH login Goals:
-understand how to make a bash script for automation and system monitoring. increase our understanding of bash scripting and python. Requirements:
-2 emails (sender and receiver). Turn on Allow less secure apps to ON. code editor (VSCode, NVIM, VIM, Nano, etc.) basic knowledge of bash scripting. basic knowledge of python language. Step 1. Create Bash Script In this case, I use NVIM as my code editor....</p>
-</section>
-<footer class=entry-footer>February 20, 2022&nbsp;·&nbsp;2 min&nbsp;·&nbsp;Me</footer>
-<a class=entry-link aria-label="post link to Email Notify when SSH Login" href=https://alvifsandana.live/posts/email_notify_when_ssh_login/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Install docker-composer Linux
-</h2>
-</header>
-<section class=entry-content>
-<p>Install Compose on Linux systems Notes: For alpine, the following dependency packages are needed: py-pip, python3-dev, libffi-dev, openssl-dev, gcc, libc-dev, rust, cargo and make.
-Run this command to download the current stable release of Docker Compose: sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose Apply executable permissions to the binary: sudo chmod +x /usr/local/bin/docker-compose Test the installation. docker-compose --version official source here.</p>
-</section>
-<footer class=entry-footer>January 3, 2022&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer>
-<a class=entry-link aria-label="post link to Install docker-composer Linux" href=https://alvifsandana.live/posts/install_docker-composer/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Install Docker Ubuntu 20.04 Server
-</h2>
-</header>
-<section class=entry-content>
-<p>Uninstall old versions sudo apt-get remove docker docker-engine docker.io containerd runc Install using the repository Update apt and install the following packets (ca-certificates, curl, gnupg, lsb-release): sudo apt-get update sudo apt-get install \ ca-certificates \ curl \ gnupg \ lsb-release Add Docker’s official GPG key: curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg Use the following command to set up the stable repository....</p>
-</section>
-<footer class=entry-footer>January 3, 2022&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer>
-<a class=entry-link aria-label="post link to Install Docker Ubuntu 20.04 Server" href=https://alvifsandana.live/posts/install_docker_ubuntu_20.04_server/></a>
+<footer class=entry-footer>October 29, 2021&nbsp;·&nbsp;2 min&nbsp;·&nbsp;Me</footer>
+<a class=entry-link aria-label="post link to MySQL utility commands" href=https://alvifsandana.live/posts/first/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>
-<a class=prev href=https://alvifsandana.live/posts/>« Prev Page</a>
-<a class=next href=https://alvifsandana.live/posts/page/3/>Next Page »</a>
+<a class=prev href=https://alvifsandana.live/posts/page/3/>« Prev Page</a>
 </nav>
 </footer>
 </main>

@@ -71,6 +71,47 @@
 <main class=main>
 <article class=post-entry>
 <header class=entry-header>
+<h2>Run Linux Command in Background
+</h2>
+</header>
+<section class=entry-content>
+<p>Using &> /dev/null & Example: ping 8.8.8.8 &> /dev/null &
+To show the running process, we can use jobs command.
+Using nohup with &> /dev/null & Example: nohup ping 8.8.8.8 &> /dev/null &
+To show the running process, we can use jobs command.
+Terminate the process with kill -9 pid_num.</p>
+</section>
+<footer class=entry-footer>April 3, 2022&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer>
+<a class=entry-link aria-label="post link to Run Linux Command in Background" href=https://alvifsandana.live/posts/run_linux_command_in_background/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Remove a User from a Group
+</h2>
+</header>
+<section class=entry-content>
+<p>Command for remove a user from a group Open Terminal and write this command:
+gpasswd --delete user group Command for add a user to a group Open Terminal and write this command:
+usermod -aG group user </p>
+</section>
+<footer class=entry-footer>February 20, 2022&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer>
+<a class=entry-link aria-label="post link to Remove a User from a Group" href=https://alvifsandana.live/posts/remove_a_user_from_a_group/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Email Notify when SSH Login
+</h2>
+</header>
+<section class=entry-content>
+<p>Bash script to send email when SSH login Goals:
+understand how to make a bash script for automation and system monitoring. increase our understanding of bash scripting and python. Requirements:
+2 emails (sender and receiver). Turn on Allow less secure apps to ON. code editor (VSCode, NVIM, VIM, Nano, etc.) basic knowledge of bash scripting. basic knowledge of python language. Step 1. Create Bash Script In this case, I use NVIM as my code editor....</p>
+</section>
+<footer class=entry-footer>February 20, 2022&nbsp;·&nbsp;2 min&nbsp;·&nbsp;Me</footer>
+<a class=entry-link aria-label="post link to Email Notify when SSH Login" href=https://alvifsandana.live/posts/email_notify_when_ssh_login/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
 <h2>Install docker-composer Linux
 </h2>
 </header>
@@ -91,48 +132,6 @@ Run this command to download the current stable release of Docker Compose: sudo 
 </section>
 <footer class=entry-footer>January 3, 2022&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer>
 <a class=entry-link aria-label="post link to Install Docker Ubuntu 20.04 Server" href=https://alvifsandana.live/posts/install_docker_ubuntu_20.04_server/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Create VirtualHost Linux XAMPP
-</h2>
-</header>
-<section class=entry-content>
-<p>System Information Debian GNU/Linux 11 (Bullseye) XAMPP for Linux 7.4.10-0 VirtualHost Information Hostname keuanganstikom.local Folder path /opt/lampp/htdocs/keuangan-stikom/public Create VirtualHost The following step for creating VirtualHost in Linux XAMPP.
-1. Edit host file (/etc/hosts) write the following command to terminal:
-sudo nano /etc/hosts Add hostname based on VirtualHost configuration:
-127.0.0.1 keuanganstikom.local 2. Edit httpd.conf Apache configuration file write the following command to terminal:
-sudo nano /opt/lampp/etc/httpd.conf Find the following line and remove # sign:...</p>
-</section>
-<footer class=entry-footer>December 12, 2021&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer>
-<a class=entry-link aria-label="post link to Create VirtualHost Linux XAMPP" href=https://alvifsandana.live/posts/create_virtualhost_xampp_linux/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>mysqldump with PHP
-</h2>
-</header>
-<section class=entry-content>
-<p>&lt;?php // Windows XAMPP exec("C:/xampp/mysql/bin/mysqldump -u root db_name> db_name.sql"); ?>or (MySQL with password protected, use -p flag):
-&lt;?php // Windows XAMPP exec("C:/xampp/mysql/bin/mysqldump -u root -pMyPassword db_name> db_name.sql"); ?>on Linux:
-&lt;?php exec("mysqldump -u root db_name> db_name.sql"); ?>or (MySQL with password protected, use -p flag):
-&lt;?php exec("mysqldump -u root -pMyPassword db_name> db_name.sql"); ?...</p>
-</section>
-<footer class=entry-footer>December 12, 2021&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer>
-<a class=entry-link aria-label="post link to mysqldump with PHP" href=https://alvifsandana.live/posts/mysqldump_with_php/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>PHP Detect OS Name
-</h2>
-</header>
-<section class=entry-content>
-<p>The following script check the value of the PHP_OS constant:
-// check whether Windows OS or not if(strtoupper(substr(PHP_OS, 0, 3)) === 'WIN'){ // do something... } else { // do something... } or (available from PHP 7.2.0)
-// available from PHP 7.2.0 if (PHP_OS_FAMILY === "Windows") { echo "Running on Windows"; } elseif (PHP_OS_FAMILY === "Linux") { echo "Running on Linux"; } </p>
-</section>
-<footer class=entry-footer>December 12, 2021&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer>
-<a class=entry-link aria-label="post link to PHP Detect OS Name" href=https://alvifsandana.live/posts/php_detect_os_name/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>

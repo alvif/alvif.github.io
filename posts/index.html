@@ -74,6 +74,39 @@
 </header>
 <article class=post-entry>
 <header class=entry-header>
+<h2>PHP Nominal Terbilang
+</h2>
+</header>
+<section class=entry-content>
+<p>&lt;?php function penyebut($nilai) { $nilai = abs($nilai); $huruf = array("", "satu", "dua", "tiga", "empat", "lima", "enam", "tujuh", "delapan", "sembilan", "sepuluh", "sebelas"); $temp = ""; if ($nilai &lt; 12) { $temp = " ". $huruf[$nilai]; } else if ($nilai &lt;20) { $temp = penyebut($nilai - 10). " belas"; } else if ($nilai &lt; 100) { $temp = penyebut($nilai/10)." puluh". penyebut($nilai % 10); } else if ($nilai &lt; 200) { $temp = " seratus" ....</p>
+</section>
+<footer class=entry-footer>May 30, 2022&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer>
+<a class=entry-link aria-label="post link to PHP Nominal Terbilang" href=https://alvifsandana.live/posts/php_nominal_terbilang/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Check PHP File Type
+</h2>
+</header>
+<section class=entry-content>
+<p>/** * Return true if $mimeType is php. * */ function check_file_type(String $mimeType = '') { $status = false; switch ($mimeType) { case '': $status = 'mimeType empty!'; return $status; case 'text/php': $status = true; return $status; break; case 'text/x-php': $status = true; return $status; break; case 'application/php': $status = true; return $status; break; case 'application/x-php': $status = true; return $status; break; case 'application/x-httpd-php': $status = true; return $status; break; case 'application/x-httpd-php-source': $status = true; return $status; break; default: return $status; break; } } </p>
+</section>
+<footer class=entry-footer>May 30, 2022&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer>
+<a class=entry-link aria-label="post link to Check PHP File Type" href=https://alvifsandana.live/posts/check_php_file_type/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Datetime Indonesian Format
+</h2>
+</header>
+<section class=entry-content>
+<p>&lt;?php function tgl_indo($tanggal){ $bulan = array ( 1 => 'Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember' ); $pecahkan = explode('-', $tanggal); // variabel pecahkan 0 = tanggal // variabel pecahkan 1 = bulan // variabel pecahkan 2 = tahun return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0]; } </p>
+</section>
+<footer class=entry-footer>May 24, 2022&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer>
+<a class=entry-link aria-label="post link to Datetime Indonesian Format" href=https://alvifsandana.live/posts/datetime_indonesia_format/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
 <h2>Linux Command for Filtering Text
 </h2>
 </header>
@@ -100,47 +133,6 @@ import sys print(sys.argv) When you run python example.py hello one zero:
 </section>
 <footer class=entry-footer>April 3, 2022&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer>
 <a class=entry-link aria-label="post link to Python Command Line Arguments" href=https://alvifsandana.live/posts/python_command_line_arguments/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Run Linux Command in Background
-</h2>
-</header>
-<section class=entry-content>
-<p>Using &> /dev/null & Example: ping 8.8.8.8 &> /dev/null &
-To show the running process, we can use jobs command.
-Using nohup with &> /dev/null & Example: nohup ping 8.8.8.8 &> /dev/null &
-To show the running process, we can use jobs command.
-Terminate the process with kill -9 pid_num.</p>
-</section>
-<footer class=entry-footer>April 3, 2022&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer>
-<a class=entry-link aria-label="post link to Run Linux Command in Background" href=https://alvifsandana.live/posts/run_linux_command_in_background/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Remove a User from a Group
-</h2>
-</header>
-<section class=entry-content>
-<p>Command for remove a user from a group Open Terminal and write this command:
-gpasswd --delete user group Command for add a user to a group Open Terminal and write this command:
-usermod -aG group user </p>
-</section>
-<footer class=entry-footer>February 20, 2022&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Me</footer>
-<a class=entry-link aria-label="post link to Remove a User from a Group" href=https://alvifsandana.live/posts/remove_a_user_from_a_group/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Email Notify when SSH Login
-</h2>
-</header>
-<section class=entry-content>
-<p>Bash script to send email when SSH login Goals:
-understand how to make a bash script for automation and system monitoring. increase our understanding of bash scripting and python. Requirements:
-2 emails (sender and receiver). Turn on Allow less secure apps to ON. code editor (VSCode, NVIM, VIM, Nano, etc.) basic knowledge of bash scripting. basic knowledge of python language. Step 1. Create Bash Script In this case, I use NVIM as my code editor....</p>
-</section>
-<footer class=entry-footer>February 20, 2022&nbsp;·&nbsp;2 min&nbsp;·&nbsp;Me</footer>
-<a class=entry-link aria-label="post link to Email Notify when SSH Login" href=https://alvifsandana.live/posts/email_notify_when_ssh_login/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>

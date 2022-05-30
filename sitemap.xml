@@ -2,10 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alvifsandana.live/tags/bash/</loc>
-    <lastmod>2022-05-22T18:25:17+07:00</lastmod>
-  </url><url>
     <loc>https://alvifsandana.live/</loc>
+    <lastmod>2022-05-30T10:19:10+07:00</lastmod>
+  </url><url>
+    <loc>https://alvifsandana.live/tags/helper/</loc>
+    <lastmod>2022-05-30T10:19:10+07:00</lastmod>
+  </url><url>
+    <loc>https://alvifsandana.live/tags/php/</loc>
+    <lastmod>2022-05-30T10:19:10+07:00</lastmod>
+  </url><url>
+    <loc>https://alvifsandana.live/posts/php_nominal_terbilang/</loc>
+    <lastmod>2022-05-30T10:19:10+07:00</lastmod>
+  </url><url>
+    <loc>https://alvifsandana.live/posts/</loc>
+    <lastmod>2022-05-30T10:19:10+07:00</lastmod>
+  </url><url>
+    <loc>https://alvifsandana.live/tags/</loc>
+    <lastmod>2022-05-30T10:19:10+07:00</lastmod>
+  </url><url>
+    <loc>https://alvifsandana.live/posts/check_php_file_type/</loc>
+    <lastmod>2022-05-30T10:16:22+07:00</lastmod>
+  </url><url>
+    <loc>https://alvifsandana.live/tags/extension/</loc>
+    <lastmod>2022-05-30T10:16:22+07:00</lastmod>
+  </url><url>
+    <loc>https://alvifsandana.live/tags/filetype/</loc>
+    <lastmod>2022-05-30T10:16:22+07:00</lastmod>
+  </url><url>
+    <loc>https://alvifsandana.live/tags/datetime/</loc>
+    <lastmod>2022-05-24T11:49:47+07:00</lastmod>
+  </url><url>
+    <loc>https://alvifsandana.live/posts/datetime_indonesia_format/</loc>
+    <lastmod>2022-05-24T11:49:47+07:00</lastmod>
+  </url><url>
+    <loc>https://alvifsandana.live/tags/bash/</loc>
     <lastmod>2022-05-22T18:25:17+07:00</lastmod>
   </url><url>
     <loc>https://alvifsandana.live/tags/interpreter/</loc>
@@ -15,12 +45,6 @@
     <lastmod>2022-05-22T18:25:17+07:00</lastmod>
   </url><url>
     <loc>https://alvifsandana.live/posts/linux_command_for_filtering_text/</loc>
-    <lastmod>2022-05-22T18:25:17+07:00</lastmod>
-  </url><url>
-    <loc>https://alvifsandana.live/posts/</loc>
-    <lastmod>2022-05-22T18:25:17+07:00</lastmod>
-  </url><url>
-    <loc>https://alvifsandana.live/tags/</loc>
     <lastmod>2022-05-22T18:25:17+07:00</lastmod>
   </url><url>
     <loc>https://alvifsandana.live/tags/terminal/</loc>
@@ -108,9 +132,6 @@
     <lastmod>2021-12-12T01:18:17+07:00</lastmod>
   </url><url>
     <loc>https://alvifsandana.live/posts/mysqldump_with_php/</loc>
-    <lastmod>2021-12-12T01:18:17+07:00</lastmod>
-  </url><url>
-    <loc>https://alvifsandana.live/tags/php/</loc>
     <lastmod>2021-12-12T01:18:17+07:00</lastmod>
   </url><url>
     <loc>https://alvifsandana.live/posts/php_detect_os_name/</loc>
