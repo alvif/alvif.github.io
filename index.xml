@@ -9,7 +9,16 @@
       <link>https://alvifsandana.live/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 30 May 2022 10:19:10 +0700</lastBuildDate><atom:link href="https://alvifsandana.live/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jun 2022 11:26:10 +0700</lastBuildDate><atom:link href="https://alvifsandana.live/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fix mysqldump: Unknown table &#39;COLUMN_STATISTICS&#39; in information_schema</title>
+      <link>https://alvifsandana.live/posts/fix_mysqldump_unknown_table_column_statistics_in_information_schema/</link>
+      <pubDate>Tue, 21 Jun 2022 11:26:10 +0700</pubDate>
+      
+      <guid>https://alvifsandana.live/posts/fix_mysqldump_unknown_table_column_statistics_in_information_schema/</guid>
+      <description>Fix column statistics error while dumping database.</description>
+    </item>
+    
     <item>
       <title>PHP Nominal Terbilang</title>
       <link>https://alvifsandana.live/posts/php_nominal_terbilang/</link>
