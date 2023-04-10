@@ -5,11 +5,21 @@
     <link>https://alvifsandana.live/posts/</link>
     <description>Recent content in Posts on Code with ASM</description>
     <image>
+      <title>Code with ASM</title>
       <url>https://alvifsandana.live/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://alvifsandana.live/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 21 Jun 2022 11:26:10 +0700</lastBuildDate><atom:link href="https://alvifsandana.live/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Apr 2023 00:04:39 +0700</lastBuildDate><atom:link href="https://alvifsandana.live/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prisma Seeder Notes</title>
+      <link>https://alvifsandana.live/posts/prisma-seeder-notes/</link>
+      <pubDate>Tue, 11 Apr 2023 00:04:39 +0700</pubDate>
+      
+      <guid>https://alvifsandana.live/posts/prisma-seeder-notes/</guid>
+      <description>How to set and use PrismaORM Seeder</description>
+    </item>
+    
     <item>
       <title>Fix mysqldump: Unknown table &#39;COLUMN_STATISTICS&#39; in information_schema</title>
       <link>https://alvifsandana.live/posts/fix_mysqldump_unknown_table_column_statistics_in_information_schema/</link>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PrismaORM on Code with ASM</title>
+    <link>https://alvifsandana.live/tags/prismaorm/</link>
+    <description>Recent content in PrismaORM on Code with ASM</description>
+    <image>
+      <title>Code with ASM</title>
+      <url>https://alvifsandana.live/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://alvifsandana.live/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 11 Apr 2023 00:04:39 +0700</lastBuildDate><atom:link href="https://alvifsandana.live/tags/prismaorm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prisma Seeder Notes</title>
+      <link>https://alvifsandana.live/posts/prisma-seeder-notes/</link>
+      <pubDate>Tue, 11 Apr 2023 00:04:39 +0700</pubDate>
+      
+      <guid>https://alvifsandana.live/posts/prisma-seeder-notes/</guid>
+      <description>How to set and use PrismaORM Seeder</description>
+    </item>
+    
+  </channel>
+</rss>
