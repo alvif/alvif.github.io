@@ -1,309 +1,187 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://alvifsandana.live/</loc>
     <lastmod>2023-04-11T00:04:39+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/mongodb/</loc>
     <lastmod>2023-04-11T00:04:39+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/posts/</loc>
     <lastmod>2023-04-11T00:04:39+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/posts/prisma-seeder-notes/</loc>
     <lastmod>2023-04-11T00:04:39+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/prismaorm/</loc>
     <lastmod>2023-04-11T00:04:39+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/</loc>
     <lastmod>2023-04-11T00:04:39+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/db/</loc>
     <lastmod>2022-06-21T11:26:10+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/posts/fix_mysqldump_unknown_table_column_statistics_in_information_schema/</loc>
     <lastmod>2022-06-21T11:26:10+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/mysql/</loc>
     <lastmod>2022-06-21T11:26:10+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/mysqldump/</loc>
     <lastmod>2022-06-21T11:26:10+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/helper/</loc>
     <lastmod>2022-05-30T10:19:10+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/php/</loc>
     <lastmod>2022-05-30T10:19:10+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/posts/php_nominal_terbilang/</loc>
     <lastmod>2022-05-30T10:19:10+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/posts/check_php_file_type/</loc>
     <lastmod>2022-05-30T10:16:22+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/extension/</loc>
     <lastmod>2022-05-30T10:16:22+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/filetype/</loc>
     <lastmod>2022-05-30T10:16:22+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/datetime/</loc>
     <lastmod>2022-05-24T11:49:47+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/posts/datetime_indonesia_format/</loc>
     <lastmod>2022-05-24T11:49:47+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/bash/</loc>
     <lastmod>2022-05-22T18:25:17+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/interpreter/</loc>
     <lastmod>2022-05-22T18:25:17+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/linux/</loc>
     <lastmod>2022-05-22T18:25:17+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/posts/linux_command_for_filtering_text/</loc>
     <lastmod>2022-05-22T18:25:17+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/terminal/</loc>
     <lastmod>2022-05-22T18:25:17+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/cli/</loc>
     <lastmod>2022-04-03T08:45:46+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/python/</loc>
     <lastmod>2022-04-03T08:45:46+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/posts/python_command_line_arguments/</loc>
     <lastmod>2022-04-03T08:45:46+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/system/</loc>
     <lastmod>2022-04-03T08:45:46+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/command/</loc>
     <lastmod>2022-04-03T08:28:58+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/posts/run_linux_command_in_background/</loc>
     <lastmod>2022-04-03T08:28:58+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/group/</loc>
     <lastmod>2022-02-20T12:19:45+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/posts/remove_a_user_from_a_group/</loc>
     <lastmod>2022-02-20T12:19:45+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/automation/</loc>
     <lastmod>2022-02-20T11:32:20+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/email/</loc>
     <lastmod>2022-02-20T11:32:20+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/posts/email_notify_when_ssh_login/</loc>
     <lastmod>2022-02-20T11:32:20+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/script/</loc>
     <lastmod>2022-02-20T11:32:20+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/shell/</loc>
     <lastmod>2022-02-20T11:32:20+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/docker/</loc>
     <lastmod>2022-01-03T11:58:43+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/posts/install_docker-composer/</loc>
     <lastmod>2022-01-03T11:58:43+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/posts/</loc>
     <lastmod>2022-01-03T11:58:43+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/posts/install_docker_ubuntu_20.04_server/</loc>
     <lastmod>2022-01-03T11:27:35+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/server/</loc>
     <lastmod>2022-01-03T11:27:35+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/ubuntu/</loc>
     <lastmod>2022-01-03T11:27:35+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/flask/</loc>
     <lastmod>2021-12-14T06:13:49+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/notes/flask_installation/</loc>
     <lastmod>2021-12-14T06:13:49+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alvifsandana.live/notes/</loc>
-    <lastmod>2021-12-14T06:13:49+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/notes/</loc>
     <lastmod>2021-12-14T06:13:49+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://alvifsandana.live/notes/</loc>
+    <lastmod>2021-12-14T06:13:49+07:00</lastmod>
+  </url><url>
     <loc>https://alvifsandana.live/posts/create_virtualhost_xampp_linux/</loc>
     <lastmod>2021-12-12T19:33:43+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/virtualhost/</loc>
     <lastmod>2021-12-12T19:33:43+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/xampp/</loc>
     <lastmod>2021-12-12T19:33:43+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/posts/mysqldump_with_php/</loc>
     <lastmod>2021-12-12T01:18:17+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/posts/php_detect_os_name/</loc>
     <lastmod>2021-12-12T01:08:03+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/posts/file_sharing_with_simplehttpserver_python/</loc>
     <lastmod>2021-12-12T00:42:43+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/share/</loc>
     <lastmod>2021-12-12T00:42:43+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/posts/backup_database_mysql_codeigniter_4/</loc>
     <lastmod>2021-12-11T21:06:29+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/codeigniter/</loc>
     <lastmod>2021-12-11T21:06:29+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/javascript/</loc>
     <lastmod>2021-12-10T21:26:29+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/nextjs/</loc>
     <lastmod>2021-12-10T21:26:29+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/notes/nextjs_installation/</loc>
     <lastmod>2021-12-10T21:26:29+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/tags/typescript/</loc>
     <lastmod>2021-12-10T21:26:29+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/posts/first/</loc>
     <lastmod>2021-10-29T21:51:28+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://alvifsandana.live/categories/</loc>
   </url>
-  
 </urlset>
